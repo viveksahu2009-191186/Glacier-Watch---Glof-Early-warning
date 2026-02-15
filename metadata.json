@@ -1,0 +1,7 @@
+{
+  "name": "GlacierWatch AI: GLOF Early Warning System",
+  "description": "An advanced AI-powered dashboard for monitoring glacial lake outburst flood (GLOF) risks using real-time IoT sensors, satellite imagery analysis, and multimodal deep learning predictions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
